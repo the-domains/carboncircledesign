@@ -1,0 +1,28 @@
+name: Carboncircledesign
+favicon: null
+layout_spectrum: 0.20771
+typography_spectrum: 0.960948578082025
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ececeb'
+    - '#c5c5c4'
+    - '#393638'
+    - '#88786e'
+    - '#008092'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.25
+  rhythmicContrast: 0
+purpose: []
