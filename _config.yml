@@ -1,8 +1,7 @@
 name: Carboncircledesign
 favicon: null
 layout_spectrum: 0.20771
-typography_spectrum: 0.61297
-title: Carbon Circle Design
+typography_spectrum: 0.960948578082025
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ececeb'
-    - '#c5c5c4'
-    - '#393638'
-    - '#88786e'
-    - '#008092'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.45029437355697155
+  lightness: 0.35982630029320717
+  saturation: 0.07082826620899141
+  rhythmicContrast: 0.12183981854468584
 purpose: []
